@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">firstDemoApp</string>
+    <string name="go_hm_page">Go To Homepage</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="f_name">First Name</string>
+    <string name="prompt_f_name">Enter Your First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="prompt_l_name">Enter Your Last Name</string>
+    <string name="email">Email</string>
+    <string name="prompt_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="prompt_password">Enter Your Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="prompt_confirm_password">Enter To Confirm Your Password</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="prompt_confirm_email">Enter To Confirm Your Email</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome \nTo Be Here!</string>
+    <string name="registration_thanks">Thanks for Registration,\n%1$s</string>
+
+</resources>
